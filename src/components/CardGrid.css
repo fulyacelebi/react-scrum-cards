@@ -1,0 +1,15 @@
+.grid {
+  display: grid;
+}
+
+.grid-gap-4 {
+  grid-gap: 1rem;
+}
+
+.grid-col-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.perspective {
+  perspective: 1000px;
+}
